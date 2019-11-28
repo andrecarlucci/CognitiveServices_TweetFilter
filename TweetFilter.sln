@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29021.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetFilter", "TweetFilter\TweetFilter.csproj", "{82950E75-B9F1-458A-BEDB-EEB87C636F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82950E75-B9F1-458A-BEDB-EEB87C636F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82950E75-B9F1-458A-BEDB-EEB87C636F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82950E75-B9F1-458A-BEDB-EEB87C636F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82950E75-B9F1-458A-BEDB-EEB87C636F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D11B06BF-1228-4197-B398-1FD0B38F09D8}
+	EndGlobalSection
+EndGlobal
